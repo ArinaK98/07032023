@@ -1,0 +1,15 @@
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\bin\Debug\net7.0\e11.exe
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\bin\Debug\net7.0\e11.deps.json
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\bin\Debug\net7.0\e11.runtimeconfig.json
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\bin\Debug\net7.0\e11.dll
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\bin\Debug\net7.0\e11.pdb
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\e11.csproj.AssemblyReference.cache
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\e11.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\e11.AssemblyInfoInputs.cache
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\e11.AssemblyInfo.cs
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\e11.csproj.CoreCompileInputs.cache
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\e11.dll
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\refint\e11.dll
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\e11.pdb
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\e11.genruntimeconfig.cache
+D:\РАЗРАБОТЧИК\0703\LECTION2\e11\obj\Debug\net7.0\ref\e11.dll
